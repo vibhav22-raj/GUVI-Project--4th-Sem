@@ -1,7 +1,7 @@
 # GUVI-Project--4th-Sem
 
 # 🎬📽️🇳 Neflix & Spotify Data Analytics Project 
- This projectb focuses on data **collection**, **prepocessing**,**exploratory data analysis(EDA)**,and **visualization** using Python and Power BI. It covers insights from Netflix and Spotify datasets through data cleaning,feature engineering,outlier detection and visualization.
+ This projectb focuses on data **collection** , **prepocessing** ,**exploratory data analysis(EDA)** ,and **visualization** using Python and Power BI. It covers insights from Netflix and Spotify datasets through data cleaning,feature engineering,outlier detection and visualization.
 
  # 🛠️ Project Setup
  # 📁 Folder Structure
@@ -50,9 +50,9 @@
     -->Visulaizatins show trends in content release,genre distribution and user preferences.
 
   # 🎯Project Goals Covered
-   🔖Data Cleaning
-   🔖Feature Engineering
-   🔖Handling Missing Values & Outliers
-   🔖Visual Insights
-   🔖Power BI Ready
+   🔖 Data Cleaning
+   🔖 Feature Engineering
+   🔖 Handling Missing Values & Outliers
+   🔖 Visual Insights
+   🔖 Power BI Ready
   
