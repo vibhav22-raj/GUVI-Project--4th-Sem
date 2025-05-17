@@ -4,7 +4,7 @@
  This projectb focuses on data **collection** , **prepocessing** ,**exploratory data analysis(EDA)** ,and **visualization** using Python and Power BI. It covers insights from Netflix and Spotify datasets through data cleaning,feature engineering,outlier detection and visualization.
 
  # 🛠️ Project Setup
- # 📁 Folder Structure
+ ## 📁 Folder Structure
   project/
   |
   |--netfix_titles.csv
@@ -18,7 +18,7 @@
   |--main.py
   |--README.md
 
-  # ⚙️Requirements
+  ## ⚙️Requirements
   Install **Python 3.7** or above make sure the following libaries are installed:
   **pip install pandas matplotlib seaborn**
 
@@ -38,11 +38,11 @@
    - Generate and export cleaned CSVs for Power BI  
    - Save EDA visualizations to .png files
 
-  # 📈Output
+  ## 📈Output
     -->**cleaned_netflix.csv** and **cleaned_spotify.csv** :Processed datasets ready for import into Power BI.
     -->**.png**files:EDA plots like type distribution,top countries,energy vs popularity,etc.
 
-  # 📊Power BI
+  ## 📊Power BI
   **Use Power BI to import the cleaned CSV files:**
     -->Build interactive dashboards using the visual insights.
     -->Combine filters,charts and slicers to explore trends in music and streaming.
@@ -59,5 +59,5 @@
 - 🧩 *Handling Missing Values & Outliers*  
 - 📊 *Visual Insights*  
 - 📈 *Power BI Ready*
--
+
   
