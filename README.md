@@ -22,18 +22,21 @@
   Install **Python 3.7** or above make sure the following libaries are installed:
   **pip install pandas matplotlib seaborn**
 
-  # ⏩How to Run the Project
-  **1.Place the original datasets in the project folder.**
-    -->'netflix_titles.csv'
-    -->'data.csv'
-  **2.Run the Pyhton Script:**
-    -->python main.py
-  **3.The Script will:**
-    -->Clean and preprocess the datasets
-    -->Create new feature for analysis
-    -->Handle misssing value and outliers
-    -->Generate and export cleaned CSVs fro Power BI
-    -->Save EDA visualizations to .png files
+ ## How to Run the Project
+
+1. Place the original datasets in the project folder:  
+   - netflix_titles.csv  
+   - data.csv
+
+2. Run the Python Script:  
+   - python main.py
+
+3. The Script will:  
+   - Clean and preprocess the datasets  
+   - Create new features for analysis  
+   - Handle missing values and outliers  
+   - Generate and export cleaned CSVs for Power BI  
+   - Save EDA visualizations to .png files
 
   # 📈Output
     -->**cleaned_netflix.csv** and **cleaned_spotify.csv** :Processed datasets ready for import into Power BI.
