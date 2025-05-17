@@ -22,7 +22,7 @@
   Install **Python 3.7** or above make sure the following libaries are installed:
   **pip install pandas matplotlib seaborn**
 
- ## How to Run the Project
+ ## ⚡How to Run the Project
 
 1. Place the original datasets in the project folder:  
    - netflix_titles.csv  
@@ -52,10 +52,12 @@
     -->Spotify tracks with high energy tend to be more popular.
     -->Visulaizatins show trends in content release,genre distribution and user preferences.
 
-  # 🎯Project Goals Covered
-   🔖 Data Cleaning
-   🔖 Feature Engineering
-   🔖 Handling Missing Values & Outliers
-   🔖 Visual Insights
-   🔖 Power BI Ready
+## 🎯 Project Goals Covered
+
+- 🧹 *Data Cleaning*  
+- 🛠 *Feature Engineering*  
+- 🧩 *Handling Missing Values & Outliers*  
+- 📊 *Visual Insights*  
+- 📈 *Power BI Ready*
+-
   
