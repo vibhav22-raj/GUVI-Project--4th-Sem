@@ -1,5 +1,5 @@
 # ❇️ GUVI Project – 4th Semester  
-## 🎬📊 Netflix & Spotify Data Analytics
+## 🎬📽️🇳  Netflix & Spotify Data Analytics Project
 
 ![Project Banner](spotify banner.png) <!-- Optional: Replace with actual image URL or remove this line -->
 
@@ -9,15 +9,7 @@
 
 ---
 
-### 📌 Overview
-
 This project explores **data collection**, **preprocessing**, **exploratory data analysis (EDA)**, and **visualization** using **Python** and **Power BI**. It delivers actionable insights from **Netflix** and **Spotify** datasets through cleaning, feature engineering, outlier detection, and visual storytelling.
-
----
-
-## 🛠️ Project Setup
-
-### 📁 Folder Structure
 
 
  # 🛠️ Project Setup
@@ -56,12 +48,12 @@ This project explores **data collection**, **preprocessing**, **exploratory data
    - Save EDA visualizations to .png files
 
   ## 📈Output
-    -->**cleaned_netflix.csv** and **cleaned_spotify.csv** :Processed datasets ready for import into Power BI.
-    -->**.png**files:EDA plots like type distribution,top countries,energy vs popularity,etc.
+    -->cleaned_netflix.csv and cleaned_spotify.csv :Processed datasets ready for import into Power BI.
+    -->.png files:EDA plots like type distribution,top countries,energy vs popularity,etc.
 
   ## 📊Power BI
   **Use Power BI to import the cleaned CSV files:**
-    -->Build interactive dashboards using the visual insights.
+    -->Build interactive dashboards using the visual insights. <br>
     -->Combine filters,charts and slicers to explore trends in music and streaming.
 
   # 💡Key Insights
