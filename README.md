@@ -24,8 +24,8 @@
 
   # ⏩How to Run the Project
   **1.Place the original datasets in the project folder.**
-    -->netflix_titles.csv
-    -->data.csv
+    -->'netflix_titles.csv'
+    -->'data.csv'
   **2.Run the Pyhton Script:**
     -->python main.py
   **3.The Script will:**
