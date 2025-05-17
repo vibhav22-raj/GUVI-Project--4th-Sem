@@ -51,8 +51,10 @@ This project explores **data collection**, **preprocessing**, **exploratory data
 
   ## 📊Power BI
   **Use Power BI to import the cleaned CSV files:**
-    - Build interactive dashboards using the visual insights. <br>
-    - Combine filters,charts and slicers to explore trends in music and streaming.
+  - Build interactive dashboards using the visual insights.
+  - Combine filters, charts and slicers to explore trends in music and streaming.
+
+
 
   # 💡Key Insights
     -->Netflix mostly features content from the US and recent years.
