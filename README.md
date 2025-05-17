@@ -1,8 +1,6 @@
 # ❇️ GUVI Project – 4th Semester  
 ## 🎬📽️🇳  Netflix & Spotify Data Analytics Project
 
-![Project Banner](images/banner.jpg) <!-- Optional: Replace with actual image URL or remove this line -->
-
 ![Python](https://img.shields.io/badge/Python-3.7%2B-blue)
 ![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow)
 ![Libraries](https://img.shields.io/badge/Libraries-pandas%2C%20matplotlib%2C%20seaborn-lightgrey)
