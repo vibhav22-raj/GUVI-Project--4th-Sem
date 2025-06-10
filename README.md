@@ -89,6 +89,10 @@ We combined visualizations with statistical summaries to highlight key patterns:
 
 
 
+![Netflix Type Distribution](visuals/netflix_type_dist.png)
+
+
+
   # 💡Key Insights
     -->Netflix mostly features content from the US and recent years.
     -->Spotify tracks with high energy tend to be more popular.
