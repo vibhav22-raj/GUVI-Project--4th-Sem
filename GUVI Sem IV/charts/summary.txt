@@ -1,0 +1,5 @@
+Netflix Most Common Type: Movie
+Top Country: United States
+Spotify Popularity Mean: 23.67
+Spotify Energy Mean: 0.32
+Cleaned datasets saved as cleaned_netflix.csv and cleaned_spotify.csv
