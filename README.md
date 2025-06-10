@@ -18,18 +18,17 @@ This project explores **data collection**, **preprocessing**, **exploratory data
 
  # 🛠️ Project Setup
  ## 📁 Folder Structure
-  project/
-  |
-  |--netfix_titles.csv
-  |--data.csv
-  |--visuals/
-  |  |--netflix_type_dist.png
-  |  |--netflix_release_year.png
-  |  |--netflix_top_conutries.png
-  |  |--spotify_energy_population.png
-  |
-  |--main.py
-  |--README.md
+- *project/*
+- │
+- ├── netfix_titles.csv # Netflix data
+- ├── data.csv # Spotify data
+- ├── visuals/ # Saved charts and plots
+- │ ├── netflix_type_dist.png
+- │ ├── netflix_release_year.png
+- │ ├── netflix_top_conutries.png
+- │ └── spotify_energy_population.png
+- ├── main.py # Main script for analysis
+- └── README.md # This file
 
   ## ⚙️Requirements
   
@@ -87,9 +86,6 @@ We combined visualizations with statistical summaries to highlight key patterns:
 - Country-wise content distribution indicating regional preferences.
 - Classification of songs into popularity bands.
 
-
-
-![Netflix Type Distribution](visuals/netflix_type_dist.png)
 
 
 
