@@ -66,6 +66,67 @@ This project explores **data collection**, **preprocessing**, **exploratory data
 | **Spotify Popularity Boxplot**           | Outliers and spread of popularity |
  
 
+## 📊 Visualization Objectives
+
+### 🔴 Netflix:
+1. **Content Type Distribution**  
+   → Understand proportion of Movies vs TV Shows
+
+2. **Top 10 Content-Producing Countries**  
+   → Identify which countries contribute the most
+
+3. **Titles by Release Year**  
+   → Explore production trends over the years
+
+4. **Content Age Distribution**  
+   → Analyze how old the available content is
+
+### 🟢 Spotify:
+1. **Energy vs Popularity Scatter Plot**  
+   → Explore how song energy relates to popularity
+
+2. **Popularity Boxplot**  
+   → Visualize spread and outliers in popularity
+
+3. **Top 10 Genres (if available)**  
+   → Discover most frequent music genres
+
+4. **Correlation Heatmap**  
+   → Understand relationships among features like popularity, energy, duration, etc.
+
+---
+
+
+## 🖱️ How to Interact with the Charts
+
+All charts are saved in the `charts/` folder as interactive `.html` files.
+
+- **Open in Browser**  
+  Simply double-click or right-click any `.html` file and open in your browser.
+
+- **Hover Tooltips**  
+  Hover over chart elements to see detailed information.
+
+- **Zoom & Pan**  
+  Use mouse scroll or drag to zoom and explore sections of the chart.
+
+- **Legend Toggle**  
+  Click on legend items (like "Movies") to show/hide data categories.
+
+---
+
+
+### 📊 Interactive Visualizations
+- `charts/netflix_type_dist_interactive.html`
+- `charts/netflix_top_countries_interactive.html`
+- `charts/netflix_release_year_interactive.html`
+- `charts/netflix_content_age_interactive.html`
+- `charts/spotify_energy_popularity_interactive.html`
+- `charts/spotify_popularity_boxplot_interactive.html`
+- *(Optional)* `charts/spotify_top_genres_pie_interactive.html`
+- `charts/spotify_correlation_heatmap_interactive.html`
+
+
 
   ## 📈Output
     -->cleaned_netflix.csv and cleaned_spotify.csv :Processed datasets ready for import into Power BI.
@@ -87,7 +148,10 @@ We combined visualizations with statistical summaries to highlight key patterns:
 - Classification of songs into popularity bands.
 
 
+### 📝 Summary Report
+- `charts/summary.txt` — Contains key statistics and insights from the cleaned data
 
+  
 
 # 💡Key Insights
  - -->Netflix mostly features content from the US and recent years.
