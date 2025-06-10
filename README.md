@@ -96,7 +96,6 @@ This project explores **data collection**, **preprocessing**, **exploratory data
 
 ---
 
-
 ## 🖱️ How to Interact with the Charts
 
 All charts are saved in the `charts/` folder as interactive `.html` files.
@@ -115,7 +114,6 @@ All charts are saved in the `charts/` folder as interactive `.html` files.
 
 ---
 
-
 ### 📊 Interactive Visualizations
 - `charts/netflix_type_dist_interactive.html`
 - `charts/netflix_top_countries_interactive.html`
@@ -123,23 +121,21 @@ All charts are saved in the `charts/` folder as interactive `.html` files.
 - `charts/netflix_content_age_interactive.html`
 - `charts/spotify_energy_popularity_interactive.html`
 - `charts/spotify_popularity_boxplot_interactive.html`
-- *(Optional)* `charts/spotify_top_genres_pie_interactive.html`
 - `charts/spotify_correlation_heatmap_interactive.html`
 
 
 
-  ## 📈Output
-    -->cleaned_netflix.csv and cleaned_spotify.csv :Processed datasets ready for import into Power BI.
-    -->.png files:EDA plots like type distribution,top countries,energy vs popularity,etc.
-    -->html image that show different charts visualizing the data of the netflix and sportify
+## 📈Output
+   -->cleaned_netflix.csv and cleaned_spotify.csv :Processed datasets ready for import into Power BI.
+   -->.png files:EDA plots like type distribution,top countries,energy vs popularity,etc.
+   -->html image that show different charts visualizing the data of the netflix and sportify
 
-  ## 📊Power BI
+## 📊Power BI
   **Use Power BI to import the cleaned CSV files:**
   - Build interactive dashboards using the visual insights.
   - Combine filters, charts and slicers to explore trends in music and streaming.
 
-
- ## 🧠 Data Storytelling
+## 🧠 Data Storytelling
 
 We combined visualizations with statistical summaries to highlight key patterns:
 - Rise of Netflix content post-2015.
