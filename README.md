@@ -126,9 +126,9 @@ All charts are saved in the `charts/` folder as interactive `.html` files.
 
 
 ## 📈Output
-   -->cleaned_netflix.csv and cleaned_spotify.csv :Processed datasets ready for import into Power BI.
-   -->.png files:EDA plots like type distribution,top countries,energy vs popularity,etc.
-   -->html image that show different charts visualizing the data of the netflix and sportify
+   - -->cleaned_netflix.csv and cleaned_spotify.csv :Processed datasets ready for import into Power BI.
+   - -->.png files:EDA plots like type distribution,top countries,energy vs popularity,etc.
+   - -->html image that show different charts visualizing the data of the netflix and sportify
 
 ## 📊Power BI
   **Use Power BI to import the cleaned CSV files:**
@@ -143,11 +143,9 @@ We combined visualizations with statistical summaries to highlight key patterns:
 - Country-wise content distribution indicating regional preferences.
 - Classification of songs into popularity bands.
 
-
-### 📝 Summary Report
+## 📝Summary Report
 - `charts/summary.txt` — Contains key statistics and insights from the cleaned data
 
-  
 
 # 💡Key Insights
  - -->Netflix mostly features content from the US and recent years.
