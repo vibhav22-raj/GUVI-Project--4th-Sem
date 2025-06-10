@@ -32,9 +32,11 @@ This project explores **data collection**, **preprocessing**, **exploratory data
   |--README.md
 
   ## ⚙️Requirements
+  
   Install **Python 3.7** or above make sure the following libaries are installed:
-  **pip install pandas matplotlib seaborn**
-  **pip install plotly**
+  
+  - *pip install pandas matplotlib seaborn*
+  - *pip install plotly*
 
 
  ## ⚡How to Run the Project
