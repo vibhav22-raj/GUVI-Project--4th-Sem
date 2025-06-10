@@ -90,10 +90,10 @@ We combined visualizations with statistical summaries to highlight key patterns:
 
 
   # 💡Key Insights
-    - -->Netflix mostly features content from the US and recent years.
-    - -->Spotify tracks with high energy tend to be more popular.
-    - -->Visulaizatins show trends in content release,genre distribution and user preferences.
-    - -->HTML png that shows the different charts.
+   - -->Netflix mostly features content from the US and recent years.
+   - -->Spotify tracks with high energy tend to be more popular.
+   - -->Visulaizatins show trends in content release,genre distribution and user preferences.
+   - -->HTML png that shows the different charts.
 
 ## 🎯 Project Goals Covered
 
